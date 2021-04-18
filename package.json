@@ -1,0 +1,27 @@
+{
+  "name": "lagom-ui",
+  "version": "1.0.0",
+  "description": "lagom-ui component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AndreiD049/lagom-ui.git"
+  },
+  "keywords": [
+    "component",
+    "library",
+    "react",
+    "typescipt",
+    "ui",
+    "simple"
+  ],
+  "author": "Andrei Dimitrascu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreiD049/lagom-ui/issues"
+  },
+  "homepage": "https://github.com/AndreiD049/lagom-ui#readme"
+}
