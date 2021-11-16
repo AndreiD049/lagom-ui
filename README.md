@@ -1,2 +1,2 @@
 # lagom-ui
-Simplistic component library
+component library?
